@@ -1,0 +1,132 @@
+header {
+    padding: 10px;
+    display: block;
+    
+    
+}
+.floating-menu {
+    font-family: sans-serif;
+    background: white;
+    padding: 5px;;
+    width: 140px;
+    z-index: 100;
+    position: static;    
+    float: left;
+    width: 18%; 
+    display: inline-block
+}
+    
+    .floating-menu a {
+        display: block;
+        color: white;
+        
+        
+        
+    }
+div {
+    display: block; 
+    
+    
+}
+    
+}
+
+h3{
+    margin: 10px;
+    padding: 5px;
+    
+    
+}
+
+main {
+    
+    
+   
+}
+
+html {
+    background-image: url(bats.gif);
+    display: block;
+    
+    
+    
+    
+}
+
+body {
+    font-family: sans-serif;
+    width: 100%;
+    padding-left: 10px; 
+    padding: 20px;border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    box-shadow: 0px 0px 20px 10px black;
+    height: auto;
+    width: 800px;
+    padding: 1px;
+    background-color: white; 
+    margin: 0px auto;
+    
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+    /*background-image: url(bats.gif);*/
+}
+h1,  u, p {
+	margin: 10px;
+	padding: 10px;
+}
+
+h1 {
+	padding-bottom: .25em;
+	color: black;
+}
+
+h2 {
+	font-size: 120%;
+	padding: .5em 0;
+    margin: -5px;
+}
+
+li{
+	
+    color: orange;
+    margin: 10px 0;
+}
+
+a:link{
+    color: orange;
+}
+
+a:hover{
+    color: lawngreen;
+}
+ul.datboi{
+    color: orange
+        
+}
+
+#caption, #gallery {
+	text-align: center;
+}
+
+li::before{
+    color: black;
+    content: "\2022";
+}
+.juice {
+    padding: -1px; 
+    
+}
+footer{
+    font-size: 75%;
+    padding: 3px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: linear-gradient(to bottom right, black, orange, white);
+    border: solid; 
+    margin-left: -1px; 
+    width: 99%;
+}
